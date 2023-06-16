@@ -1,5 +1,5 @@
 def name_data():
-    name = input('Введите Ваше имя: ')
+    name = input('Введите Вше имя: ')
     print('Очень красивое имя! (а меня зовут гб_бот, меня создала компания GeekBrains!')
     return name
 
